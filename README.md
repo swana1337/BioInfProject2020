@@ -1,2 +1,0 @@
-# BioInfProject2020
-FruitSelectorPython
